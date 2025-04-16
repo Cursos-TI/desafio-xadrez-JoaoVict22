@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(){
-    int torre = 0;
-    int bispo = 0;
-    int rainha = 0;
+    int torre = 1;
+    int bispo = 1;
+    int rainha = 1;
 
     printf("\ntorre\n");
 
